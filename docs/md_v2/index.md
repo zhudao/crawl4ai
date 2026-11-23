@@ -15,41 +15,41 @@
   <p>
     <a href="https://github.com/unclecode/crawl4ai/stargazers">
       <img src="https://img.shields.io/github/stars/unclecode/crawl4ai?style=social"
-           alt="GitHub Stars"/>
+           alt="GitHub Stars" width="88" height="20"/>
     </a>
     <a href="https://github.com/unclecode/crawl4ai/network/members">
       <img src="https://img.shields.io/github/forks/unclecode/crawl4ai?style=social"
-           alt="GitHub Forks"/>
+           alt="GitHub Forks" width="92" height="20"/>
     </a>
     <a href="https://badge.fury.io/py/crawl4ai">
       <img src="https://badge.fury.io/py/crawl4ai.svg"
-           alt="PyPI version"/>
+           alt="PyPI version" width="125" height="20"/>
     </a>
   </p>
 
   <p>
     <a href="https://pypi.org/project/crawl4ai/">
       <img src="https://img.shields.io/pypi/pyversions/crawl4ai"
-           alt="Python Version"/>
+           alt="Python Version" width="198" height="20"/>
     </a>
     <a href="https://pepy.tech/project/crawl4ai">
       <img src="https://static.pepy.tech/badge/crawl4ai/month"
-           alt="Downloads"/>
+           alt="Downloads" width="136" height="20"/>
     </a>
     <a href="https://github.com/unclecode/crawl4ai/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/unclecode/crawl4ai"
-           alt="License"/>
+           alt="License" width="120" height="20"/>
     </a>
   </p>
   <p align="center">
     <a href="https://x.com/crawl4ai">
-      <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
+      <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" width="136" height="28"/>
     </a>
     <a href="https://www.linkedin.com/company/crawl4ai">
-      <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" />
+      <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn" width="175" height="28"/>
     </a>
     <a href="https://discord.gg/jP8KfhDhyN">
-      <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" />
+      <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" width="175" height="28"/>
     </a>
   </p>
   
@@ -65,6 +65,9 @@ Crawl4AI turns any website into clean, LLM-ready Markdown for RAG, AI agents and
 pip install -U crawl4ai
 crawl4ai-setup        # installs the browser, once
 ```
+
+**Or skip the install.** One API call. First crawl in 30 seconds. [Get a free API key →](https://crawl4ai.com/signin/?ref=docs-home-inline){ .c4s-box-btn data-c4s-ev="banner_inline_clicked" }
+{: .c4s-box }
 
 ```python
 import asyncio
@@ -82,7 +85,7 @@ Docker server, CLI and every option: [Installation](core/installation.md) · [Se
 
 ### ☁️ Or use the cloud: no browsers, no proxies
 
-1. [![Get a key in 10 seconds](https://img.shields.io/badge/Get_a_key_in_10_seconds-1%2C000_free_credits-f5a300?style=for-the-badge&labelColor=0d0d10)](https://crawl4ai.com/?ref=docs)  
+1. [![Get a key in 10 seconds](https://img.shields.io/badge/Get_a_key_in_10_seconds-1%2C000_free_credits-f5a300?style=for-the-badge&labelColor=0d0d10)](https://crawl4ai.com/signin/?ref=docs)  
    Verify your email and 1,000 free credits are yours every month. No card.
 2. Get any page as Markdown:
 
